@@ -1,8 +1,7 @@
 # Notifyme.js
+> A Jquery/javascript plugin for custom notifications.
 
 ![alt tag](http://i.imgur.com/1Kbqbv8.png)
-
-> A Jquery/javascript plugin for custom notifications.
 
 
 ## Usage
@@ -29,4 +28,4 @@ Notifyme.js is released under the [MIT license](http://www.opensource.org/licens
 * [Mashable](http://mashable.com) for the design idea.
 * [Bounce.js](http://font-awesome.io) for CSS3 Animations.  
 * [Sitepoint](http://sitepoint.com) for a snippet to [Capture CSS3 Animation Events](http://www.sitepoint.com/css3-animation-javascript-event-handlers/)
-* [Font Awesome](http://font-awesome.io) for icons. 
+* [Font Awesome](http://fontawesome.io) for icons. 
