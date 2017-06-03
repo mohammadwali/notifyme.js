@@ -1,0 +1,19 @@
+{
+  "name": "notifyme-js",
+  "version": "2.0.0",
+  "description": "A Jquery/javascript plugin for custom notifications.",
+  "main": "notifyme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadwali/notifyme.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadwali/notifyme.js/issues"
+  },
+  "homepage": "https://github.com/mohammadwali/notifyme.js#readme"
+}
